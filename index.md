@@ -1,3 +1,4 @@
+#
 # Stanislav Kukucka
 
 ### Last years and during staying in Asia i have been working on various long/short term contracts that made my work experience look more flighty &amp; lively that usualy workers have. 
