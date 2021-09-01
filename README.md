@@ -1,7 +1,3 @@
----
-permalink: /index.html
----
-
 - 👋 Hi, I’m [@stanislav-kukucka](https://github.com/stanislav-kukucka) or in other words Stanislav Kukucka for shorter call me Stan.
 - 👀 From marketing I’m up to SEO, ASO, PPC. From DEV stuff i'm big fan of various crawling techniques.
 - 💻 As online marketer and product design guy i have been involved in design processes that resulted into [this UX portfolio 2021](https://drive.google.com/file/d/11dEkD6bjD0k28QWfDdSWs-2KIM5JF9wW/view?usp=sharing)
