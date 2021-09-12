@@ -1,0 +1,21 @@
+title: Well, that's kind of interesting
+email: stan.kukucka@hotmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A Personal website of Stanislav kukucka
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://stanislav-kukucka.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username:  stanislav-kukucka
+
+google_analytics: UA-171623258-1
+linkedin_username: stankukucka
+author:             Stanislav Kukucka
+
+# Build settings
+markdown:           kramdown
+paginate:           10
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
