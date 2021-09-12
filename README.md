@@ -8,6 +8,8 @@
 - 🐢 It's ok for me if your idea is little light.
 - 📫 How to reach me? You can find me on [Linkedin](https://www.linkedin.com/in/stankukucka/).
 
+{% include google_analytics.html %}
+
 <!---
 stankukuck4/stankukuck4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
