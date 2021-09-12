@@ -1,1 +1,19 @@
+title: My Website
+author: Some Person
+
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 google_analytics: YOUR_GOOGLE_ANALYTICS_TRACKING_CODE
