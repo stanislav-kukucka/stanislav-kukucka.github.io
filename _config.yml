@@ -1,13 +1,13 @@
-title: Well, that's kind of interesting
+title: Stanislav Kukučka - Personal website
 email: stan.kukucka@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A Personal website of Stanislav kukucka
+  A Personal website of Stanislav Kukučka
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stanislav-kukucka.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  stanislav-kukucka
 
-google_analytics: UA-171623258-1
+google_analytics: G-T51R040NRN
 linkedin_username: stankukucka
 author:             Stanislav Kukucka
 
