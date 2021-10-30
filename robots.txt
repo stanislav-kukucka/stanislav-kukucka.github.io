@@ -1,0 +1,4 @@
+Sitemap: https://stanislav-kukucka.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
